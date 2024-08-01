@@ -1,0 +1,3 @@
+git clone https://github.com/xHak9x/finduser.git
+cd finduser
+bash finduser.sh

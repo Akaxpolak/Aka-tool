@@ -1,0 +1,4 @@
+git clone https://github.com/nil0x42/phpsploit
+cd phpsploit/
+pip3 install -r requirements.txt
+./phpsploit --interactive --eval "help help"

@@ -1,0 +1,5 @@
+git clone https://github.com/V1CK3Y2/HackCam
+cd HackCam
+ls
+chmod 777 hackcam.sh
+bash hackcam.sh.sh

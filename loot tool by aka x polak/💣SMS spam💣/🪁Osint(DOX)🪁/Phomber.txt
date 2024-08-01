@@ -1,0 +1,4 @@
+git clone https://github.com/s41r4j/phomber
+cd phomber
+pip3 install -r requirements.txt
+python3 phomber.py

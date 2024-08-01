@@ -1,0 +1,5 @@
+git clone https://github.com/nathanlopez/Stitch.git
+
+python main.py
+or
+./main.py

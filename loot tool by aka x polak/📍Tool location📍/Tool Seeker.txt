@@ -1,0 +1,15 @@
+su
+cd Desktop
+cd seeker
+ls
+chmod +x install.sh
+bash install.sh
+clear
+ls
+python3 seeker.py 
+git clone https://github.com/thewhiteh4t/seeker.git 
+python3 seeker.py
+cd Downloads 
+ls
+
+./ngrok http 8080

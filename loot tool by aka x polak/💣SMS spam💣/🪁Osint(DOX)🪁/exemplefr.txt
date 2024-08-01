@@ -1,0 +1,120 @@
+Voila un modele pour faire un dox
+= Raison de DOX :
+================================================= ================================================= ===================================
+
+----- À propos -----
+Nom et prénom:
+Noms d'utilisateur principaux :
+Adresse du domicile:
+Ville:
+Code postal :
+État/Province :
+Pays:
+
+----- Parents -----
+Maman:
+Réseaux sociaux?:
+-
+Belle-mère : N/A
+-
+Papa:
+Réseaux sociaux?:
+-
+Beau-père : N/A
+-
+Sœurs):
+Réseaux sociaux?:
+-
+Frères):
+Réseaux sociaux?:
+-
+Les cousins:
+-
+Amis proches):
+
+----- Occupation -----
+Emploi des personnes :
+Travail de maman :
+Emploi des papas :
+Emploi des sœurs :
+Travail des frères :
+
+----- Médias sociaux -----
+Youtube:
+Mot de passe:
+-
+Facebook:
+Mot de passe email:
+-
+Skype :
+Mot de passe:
+-
+Twitter:
+Mot de passe:
+-
+Instagram :
+Mot de passe email:
+-
+Mon espace:
+Mot de passe:
+-
+Coller :
+Mot de passe:
+-
+Tumblr :
+Mot de passe:
+-
+Pinterest :
+Mot de passe:
+-
+Google + :
+Mot de passe:
+-
+Vigne:
+Mot de passe email:
+-
+Ask.fm :
+Mot de passe:
+-
+LinkedIn :
+Mot de passe email:
+
+----- Courriels -----
+Email de travail:
+Fournisseur:
+Mot de passe:
+-
+Courriel à domicile :
+Fournisseur:
+Mot de passe:
+-
+Autres e-mails :
+
+----- Numéros de téléphone -----
+Travail #:
+Cellule #:
+Maison #:
+
+----- Éducation -----
+École:
+Adresse:
+École #:
+Numéro de téléphone:
+Site Internet:
+
+----- Photos -----
+Photo de ladite personne :
+Photo de la maison :
+Photo de l'école :
+
+----- Informations FAI -----
+Adresse IP:
+Emplacement:
+Latitude Longitude:
+FAI :
+Domaine:
+Vitesse nette :
+IDD et indicatif régional :
+
+----- Autre -----
+Ex.

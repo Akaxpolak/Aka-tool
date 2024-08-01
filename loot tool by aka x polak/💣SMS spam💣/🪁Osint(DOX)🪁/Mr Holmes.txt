@@ -1,0 +1,12 @@
+git clone https://github.com/Lucksi/Mr.Holmes
+cd Mr.Holmes
+sudo pip3 install -r requirements.txt
+sudo apt-get update
+sudo chmod +x install.sh
+sudo ./install.sh
+
+USAGE LINUX/MAC:
+sudo python3 MrHolmes.py
+OR:
+cd Launchers
+Execute Launcher.sh

@@ -1,0 +1,7 @@
+git clone https://www.github.com/BiZken/PhishMailer.git
+Then Go To The PhishMailer Folder And Change Permission On "PhishMailer" (If You Ain't Root)
+
+chmod +x PhishMailer.py
+And then Run it:
+
+python3 PhishMailer.py

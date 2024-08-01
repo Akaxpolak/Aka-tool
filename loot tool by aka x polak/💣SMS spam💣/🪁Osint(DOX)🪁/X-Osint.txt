@@ -1,0 +1,6 @@
+cd $HOME
+git clone https://github.com/TermuxHackz/X-osint
+cd X-osint
+chmod +x *
+bash setup.sh
+sudo xosint

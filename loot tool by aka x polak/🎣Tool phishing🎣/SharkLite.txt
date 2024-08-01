@@ -1,0 +1,4 @@
+$ git clone https://github.com/bhikandeshmukh/Shark-Lite.git
+$ cd Shark-Lite
+$ chmod +x *
+$ bash shark-lite.sh (./shark-lite.sh)

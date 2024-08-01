@@ -1,0 +1,6 @@
+sudo apt-get update && apt-get install git
+git clone https://github.com/akashblackhat/wifi-hacking.py.git
+ls
+cd wifi-hacking.py
+ls
+sudo python3 wifi-hacking.py

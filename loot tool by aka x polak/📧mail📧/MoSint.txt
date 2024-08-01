@@ -1,0 +1,5 @@
+Installation:
+go install -v github.com/alpkeskin/mosint@latest
+
+Usage:
+mosint example@email.com

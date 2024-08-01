@@ -1,0 +1,9 @@
+Clone the repo git clone https://github.com/v1li/H4X-Tools.git
+
+Change directory cd H4X-Tools
+
+Run sh setup.sh in terminal to install the tool.
+
+If it doesn't work, install the dependencies manually and start the application in terminal using python3 h4xtools.py.
+
+To update the tool, run sh update.sh.

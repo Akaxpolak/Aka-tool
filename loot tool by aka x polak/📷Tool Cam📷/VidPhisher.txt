@@ -1,0 +1,7 @@
+
+    git clone https://github.com/KasRoudra/VidPhisher
+    cd VidPhisher
+
+For termux, use additional command termux-setup-storage
+
+    bash vp.sh

@@ -1,0 +1,9 @@
+apt update && apt upgrade
+
+pkg install python2 && pkg install python
+
+git clone https://github.com/maskprivate1457/tools-osint.git
+
+cd tools-osint
+
+python LACAK.py atau python tiktokuserinfo.py

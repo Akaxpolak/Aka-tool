@@ -1,0 +1,11 @@
+Clone this repository
+git clone https://github.com/KasRoudra/MaxPhisher
+
+Enter the directory
+cd MaxPhisher
+
+Install all modules
+pip3 install -r files/requirements.txt --break-system-packages
+
+Run the tool
+python3 maxphisher.py
